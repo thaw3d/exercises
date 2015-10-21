@@ -1,2 +1,2 @@
 # random-exercises
-tiny programs w/o any value to anyone :)
+tiny programs w/o any value to anyone 
