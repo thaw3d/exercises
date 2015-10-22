@@ -2,8 +2,8 @@ import java.util.*;
 
 /*
 The answer to exercise nr 4 in chapter 9 in the (swedish) book java steg för steg.
-*/
 
+*/
 
 public class tal {
 	public static void main (String[] args) {
