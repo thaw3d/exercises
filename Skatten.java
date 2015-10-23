@@ -2,7 +2,7 @@ import javax.swing.*;
 
 
 /* 
-
+idk how i messed it up but i did
 */
 
 public class Skatten {
