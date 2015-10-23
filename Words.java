@@ -21,7 +21,12 @@ public class Words {
         utstrom.println(namn.substring(0,i));
         ord++;
       }
-        else {
+
+        else if (namn.length() < 1) {
+          System.out.println("Funkar! yay");
+          continue;
+        }
+      else {
         utstrom.println(namn);
         ord++;
       }
